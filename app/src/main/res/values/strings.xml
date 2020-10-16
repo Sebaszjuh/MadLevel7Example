@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MadLevel7Example</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!--    Home fragment-->
+    <string name="welcome_help">Welcome to the quizmaker. Please create a question before starting the quiz.</string>
+    <string name="create_quiz">Create Quiz</string>
+
+    <string name="start_quiz">Start Quiz</string>
+
+    <!--    //Create quiz fragment-->
+    <string name="create">Create</string>
+    <string name="create_quiz_here">Create your quiz here</string>
+    <string name="succes">Sucessfully created the question</string>
+
+
+<!--    Quiz fragment-->
+    <string name="tv_question_1"></string>
+    <string name="et_answer"></string>
+    <string name="btn_confirm_answer">Submit answer</string>
+</resources>
